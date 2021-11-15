@@ -8,6 +8,6 @@ Steve's parents are looking to be Steve's first clients as he starts his new car
 #### Before Refactoring
 Before refactoring the data, the 2017 results ran in 0.5976563 seconds while 2018 took 0.5976563. 
 
-stock-analysis/Resources/VBA_Challenge_2017_before-refactoring.PNG
+VBA_Challenge_2017_before-refactoring.PNG
 
-stock-analysis/Resources/VBA_Challenge_2018_before-refactoring.PNG
+VBA_Challenge_2018_before-refactoring.PNG
